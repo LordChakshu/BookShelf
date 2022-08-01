@@ -1,6 +1,6 @@
 // CHAKSHU CHATURVEDI
 // Book Shelf
-// Edit No. 4 
+// Edit No. 5
 
 #include <iostream>
 #include <algorithm>
@@ -125,7 +125,7 @@ int main()
     ch titlebuy[50], authorbuy[50];
     while (1)
     {
-        cout << "\n\n\t\tMENU"
+        cout << "Made by Chakshu Chaturvedi\n\n\t\tMENU"
              << "\n1. Entry of New Book"
              << "\n2. Buy Book"
              << "\n3. Search For Book"
